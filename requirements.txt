@@ -1,0 +1,9 @@
+google-generativeai
+openai
+deepgram-sdk
+cartesia
+pandas
+sounddevice
+soundfile
+python-dotenv
+playsound
