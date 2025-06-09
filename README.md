@@ -1,11 +1,14 @@
-# Voice Agent Starter (Python)
+# 🎙️ AI Voice Agent with Whisper + Gemini + ElevenLabs + LiveKit
 
-A real-time voice AI agent pipeline using STT, LLM, and TTS.
+🚀 Real-time speech-to-text → LLM response → TTS voice-back — all pipelined with love.
 
-## Modules
-- `stt.py`: Converts speech to text
-- `llm.py`: Generates text response
-- `tts.py`: Converts text to speech
-- `metrics_logger.py`: Logs timing metrics
+## 🔧 Tech Stack
+- Whisper (STT)
+- Gemini (LLM)
+- ElevenLabs (TTS)
+- LiveKit (Voice Agent Infra)
+- Python AsyncIO, SoundDevice, Excel metrics logging
 
-Set your API keys in `.env` file.
+## 💡 Run it
+```bash
+python app.py
